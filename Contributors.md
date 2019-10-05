@@ -108,7 +108,13 @@
 - Place: Lagos, Nigeria
 - Bio:	Software Developer
 - GitHub: [charlyTochi](https://github.com/charlyTochi)
+
 ### Name: [ali asadi](https://github.com/iamaliasadi)
 - Place: Tehran, Iran
 - Bio:	Software Developer
 - GitHub: [iamaliasadi](https://github.com/iamaliasadi)
+
+### Name: [kelvin osh](https://github.com/kelvinosh)
+- Place: South Dakota, USA
+- Bio:	Unemployed
+- GitHub: [kelvinosh](https://github.com/kelvinosh)
